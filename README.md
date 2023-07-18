@@ -64,15 +64,6 @@ Copy code
 ./piecewise_recursive.exe
 The program will execute and display the results for each of the three approaches: recursive, dynamic programming with memoization, and dynamic programming with tabulation.
 
-Feel free to modify the source code to test different input values or customize the program behavior.
 
-Additional Notes
-The MAX_SIZE constant in the code represents the maximum size of the memoization table or the tabulation array. You can modify this value as per your requirements or constraints.
-
-Make sure to have the necessary permissions to compile and run the code in your development environment.
-
-If you encounter any issues or errors during compilation or execution, please ensure that you have set up the development environment correctly and that the required dependencies (e.g., GCC compiler) are properly installed.
-
-Remember to free any dynamically allocated memory after use, as shown in the provided code, to avoid memory leaks.
 
 For more information or further assistance, refer to the VS Code documentation or consult the relevant resources for C/C++ development in Visual Studio Code.
